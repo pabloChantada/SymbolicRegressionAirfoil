@@ -224,3 +224,5 @@ __marimo__/
 */outputs/*
 */results/*
 outputs/
+final_equation.txt
+final_sr_model.pkl
