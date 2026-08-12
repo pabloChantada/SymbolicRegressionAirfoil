@@ -221,3 +221,5 @@ __marimo__/
 
 # Git files
 .git/
+*/outputs/*
+*/results/*
